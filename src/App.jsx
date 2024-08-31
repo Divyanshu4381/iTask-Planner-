@@ -67,7 +67,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="container flex justify-around mx-auto mt-7 rounded-xl bg-violet-100 w-11/12 min-h-[80vh]	">
+      <div className="md:container flex justify-around mx-auto mt-7 rounded-xl bg-violet-100 w-11/12 min-h-[80vh]	">
         
         <div className="left  w-2/12 bg-violet-100 rounded-xl">
             <div className="home flex mt-5 justify-around  align-middle ">
